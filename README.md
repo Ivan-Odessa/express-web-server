@@ -12,4 +12,4 @@ This test project contains basic Express test server
 
 ## Connecting to the server
 
-In the web browser connect to the http://localhost:3000
+In the web browser connect to the http://127.0.0.1:3000
